@@ -1,0 +1,10 @@
+{
+    "name": "tangwei/project",
+    "description": "The tangwei Framework.",
+    "keywords": ["framework", "tangwei"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "tangwei/qiniu": "~4.0"
+    }
+}
